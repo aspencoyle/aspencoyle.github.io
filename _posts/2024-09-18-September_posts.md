@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  September Summary
-date: '2024-09-19'
+date: '2024-09-18'
 categories: summary
 tags: writeup
 ---
