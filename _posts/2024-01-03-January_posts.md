@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  January Summary
-date: '2024-01-03'
+date: '2024-01-02'
 categories: summary
 tags: writeup
 ---
