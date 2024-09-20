@@ -3,23 +3,26 @@ layout: page
 title: Aspen Coyle
 subtitle: Graduate student, University of Washington
 ---
-### Current Research 
 
-My current work focuses on Alaskan populations of snow and Tanner crab (*Chionoecetes bairdi* and *C. opilio*), and their parasite *Hematodinium sp.*. *Hematodinium* is a globally-distributed dinoflagellate notorious for damaging crustacean fisheries and aquaculture. In *Chionoecetes*, it manifests as BCS (Bitter Crab Syndrome), which turns the crab flesh chalky and astringent.
+### My Background
 
-I'm investigating the relationship between *Hematodinium* and *Chionoecetes*, along with the response of this system to climate change. To do so, I use both transcriptomics and generalized linear models.
+Before joining the Roberts lab, I was with the Alaska Department of Fish and Game in Kodiak, Alaska. While there, I worked on a variety of crab projects, including crab fecundity studies, fishery sampling, and surveys of the St. Matthew Island blue king crab population. I also branched out beyond crab, doing work on groundfish and various invertebrates, and spent a summer supervising a remote salmon weir on Afognak Island.
 
-### Background
+During my time in undergrad, I researched genetic links to thermal tolerance in the invasive European greeb crab (*Carcinus maenas*). In my examination of the East Coast population of this globally-distributed invader, I found a link between mitochondrial haplotype and cold tolerance, one of the first linkages between mitochondrial genes and thermal tolerance in any crustacean. 
 
-Prior to joining the Roberts lab, I worked on snow and Tanner crab research with the Alaska Department of Fish and Game. While there, I assisted with crab fecundity studies, fishery sampling, and surveys of Bering Sea crab populations. I also joined some non-crab-related projects, including sampling deliveries of groundfish and monitoring salmon runs. I have also worked with the Washington Department of Fish and Wildlife on herring spawn events and ichthyoplankton distribution.
+### My Identity
 
-While at undergrad, I researched genetic links to thermal tolerance in the invasive European green crab (*Carcinus maenas*). This project examined the East Coast population of this globally-distributed invader, and found a link between mitochondrial haplotype and cold tolerance. 
+I'm transfemme, and started transitioning while in grad school. It's absolutely been the best decision of my life, and I feel immeasurably happier and more complete. I'm also extremely passionate about trans solidarity, and nearly always glad to chat about being trans with anyone who's interested! Feel especially free to reach out if you're also trans. There's not many of us in academia, and I really do take that trans solidarity stuff seriously.
 
-In my free time, I love long-distance cycling, mixing cocktails, and making candy!
+### Even More About Aspen
+
+I'm an absolute sucker for karaoke, and I'm starting to figure out more about the strategy of pinball (Seattle has one of the best pinball scenes in the country!).
+As a trans woman, I'm also obligated to enjoy weird loud music, so I go to a lot of local concerts and raves. I've also spent a lot of time doing long-distance bike trips, and 
+recently have gotten quite into chess. Finally, I've spent the past few years learning Spanish, and am working towards full fluency!
 
 ### Contact
  **Email:** [afcoyle@uw.edu](mailto:afcoyle@uw.edu)
 
- **Office:** School of Aquatic and Fishery Sciences, FTR 234  
+ **Office:** School of Aquatic and Fishery Sciences, FTR 134  
  
  **Mailing address:** School of Aquatic and Fishery Sciences, University of Washington, 1122 NE Boat Street, Room 116, Seattle, WA 98105
