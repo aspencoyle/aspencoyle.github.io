@@ -39,3 +39,13 @@ I used to have an in-depth breakdown of my research on the About Me page, and a 
 I also did the final final edits on my first draft, and it is now fully ready to be sent out to pals for edits. Names were added (if you're trying to come up with some fake names, try walking around your local graveyard!), I chose a tentative title (Life in Trans Heaven) and made some last-minute changes to introducing the quote I'm finishing with. I think all improved the work, but we'll see after I get some feedback!
 
 Taking a half day today, as I've got some family stopping through while flying down from Alaska. Next week: the official start of the quarter!
+
+**Monday, September 23**
+
+- Sent out edits on the AFS paper
+- Reflected on the questions I'll be asked as part of the oSTEM panel
+- Updated some lab notebook links that were broken on my homepage. Will work on a broader update of all links (although I can't find the tool that was used to spot broken links! hmm...)
+- Communicated about some funding stuff
+- Reached out to Mark about DEI committee position
+- Started reflecting and brainstorming about my plans for the breakout session I'm leading at oSTEM
+
