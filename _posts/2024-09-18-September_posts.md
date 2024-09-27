@@ -58,3 +58,9 @@ As a way to reward myself for doing the thing I procrastinated about, I also wro
 **Wednesday, September 25**
 
 Went to the first FISH 250 class! Besides that, nothing today, as I had to head to Urgent Care. Oh no! Hopefully I'll be back tomorrow :)
+
+**Friday, September 27**
+
+Welp, I wasn't back tomorrow. Got on antibiotics, and feeling extremely under the weather but slowly recovering. 
+
+Today's productivity was hence somewhat limited. I did a bunch of work for FISH 250, updating all the slides and dates for the coming week's lab. I also set up a Substack, where I'm planning to make blog posts on a wider range of topics than feels natural on the Bitter Crab wordpress. That's about it - time to rest up over the weekend!
