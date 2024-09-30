@@ -64,3 +64,16 @@ Went to the first FISH 250 class! Besides that, nothing today, as I had to head 
 Welp, I wasn't back tomorrow. Got on antibiotics, and feeling extremely under the weather but slowly recovering. 
 
 Today's productivity was hence somewhat limited. I did a bunch of work for FISH 250, updating all the slides and dates for the coming week's lab. I also set up a Substack, where I'm planning to make blog posts on a wider range of topics than feels natural on the Bitter Crab wordpress. That's about it - time to rest up over the weekend!
+
+**Monday, September 30**
+
+Pretty dang productive day! Accomplishments included:
+- Finished all my grading for the first lab for FISH 250
+- Sorted out a variety of issues with the FISH 250 lab (I was the TA in charge of setting up Lab 2)
+- Setting up my profile on the oSTEM site and updating my resume for upload
+- Got edits from 2 of my 3 reviewers on my AFS chapter, incorporated all edits! Getting the next tomorrow afternoon
+- Helping the numerous confused and scared undergrads in my class who are desperately trying to figure out how to do the whole College Classes thing and really really want to send us a billion emails about it
+
+Goals for tomorrow: 
+- Incorporate those additional edits on my AFS chapter
+- Continue going through Chelsea's edits and rewriting my modeling paper
