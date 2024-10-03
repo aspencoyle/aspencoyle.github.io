@@ -14,10 +14,37 @@ After that, time to move on to the modeling paper! Last time, I rewrote the whol
 
 I also got around to migrating my blog over from the Bittercrab Wordpress site to Substack. The Bittercrab site felt, unsurprisingly, very tied to bitter crab research, and I'm wanting to write about a wider array of topics. I came up with the name Aligned Reads, which I'm very proud of. Anyways, I spent a good chunk of time copying over my old blog posts, setting up the site, et cetera!
 
+**Wednesday, October 2nd**
+
+More progress! I spent today on a mix of logistical issues and thesis work.
+
+Logistical issues:
+- Sorted out funding for oSTEM trip
+- Bought tickets for Amtrak (for oSTEM trip)
+- Messaged Sam and Steven about getting First Aid training and the logistics thereof
+
+Misc issues:
+- Read through AFS chapter one more time
+
+Thesis work:
+
+Completely redid Figure 1! Previously, it was a frankly pretty crappy map showing Tanner crab infection rates by location. I redid it from scratch. Some changes:
+- Used a much more detailed and beautiful Stadia map.
+- Changed it from showing infection to showing survey (Tanner vs RKC survey)
+- Added shapes to represent the two surveys
+- Added a zoomed-out map in the corner showing Alaska more generally
+- Put a box in the zoomed-out Alaska map showing the area this map focuses on
+- Put a border around the zoomed-out map in the corner
+
+This last step gave me absolute fits, as there's some weird buffering going on with draw_line() in the cowplot package - the coordinates (0,0) don't correspond to the bottom left corner, but instead to somewhere even further left and lower. But it wasn't being consistently interpreted by the mapping function, which was the absolute worst. So (forgive me Steven), I used Gimp to throw a dashed border around the corner map.
+
+Anyways, productive day. Now off to my self-criticism session in which I'll be held accountable for drawing that border and thus violating reproducibility principles! If I don't post again, you know what happened to me.
+
+
+
 Goals for tomorrow:
 - Continue rewriting modeling paper with Chelsea's edits
 - Set up Element for communication
-- Start reading thru Linux book
-- Read through AFS chapter one more time
+- Continue reading thru Linux book
 - Send in AFS chapter
 - Look into getting First Aid cert
