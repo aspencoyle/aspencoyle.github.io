@@ -40,11 +40,18 @@ This last step gave me absolute fits, as there's some weird buffering going on w
 
 Anyways, productive day. Now off to my self-criticism session in which I'll be held accountable for drawing that border and thus violating reproducibility principles! If I don't post again, you know what happened to me.
 
+**Thursday, October 3rd**
+
+Well, Thursdays are my chaotic day - got two labs to TA back-to-back! Both went great, but since I was teaching from 8:30-4:30, I didn't have much time or energy to work on non-TAing stuff. Did accomplish a few things though!
+
+- Sent in AFS chapter!!!!
+- Set up appointment to get First Aid cert, and got it booked by Sam so no reimbursement things to deal with!
+- Submitted TREQ request for reimbursement for oSTEM trip
+- Graded all the late papers for FISH 250 Lab 1
+- Made a teensy bit of progress reading through Linux book
 
 
 Goals for tomorrow:
 - Continue rewriting modeling paper with Chelsea's edits
 - Set up Element for communication
 - Continue reading thru Linux book
-- Send in AFS chapter
-- Look into getting First Aid cert
