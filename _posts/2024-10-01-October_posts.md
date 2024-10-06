@@ -50,8 +50,15 @@ Well, Thursdays are my chaotic day - got two labs to TA back-to-back! Both went 
 - Graded all the late papers for FISH 250 Lab 1
 - Made a teensy bit of progress reading through Linux book
 
+**Friday, October 4th**
+
+Filled in for Celeste's 250 lab today, so most of the day was that! Beyond that, I did the following:
+
+- Sorted out a bunch of TREQ issues re: reimbursement
+- Got in touch with TREQ to updat emy name in their system
+- 
+
 
 Goals for tomorrow:
 - Continue rewriting modeling paper with Chelsea's edits
-- Set up Element for communication
 - Continue reading thru Linux book
