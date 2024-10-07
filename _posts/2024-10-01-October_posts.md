@@ -65,3 +65,27 @@ neat!). Good news: I ended up going through all of the paper edits from Chelsea!
 Next up on the list: 
 - Create all figures for modeling paper (already did Figure 1!)
 - Continue reading thru Linux book
+
+**Monday, October 7th**
+
+First lab meeting of the new quarter! Fun times and good vibes were had by all
+
+Had office hours + lab meeting + FISH 250 meeting today, so haven't had a bunch of time.
+However, I was able to get Figure 2 figured out!!! R was giving me fits, I couldn't for the life of me
+figure out how to turn a model summary table into a regular table - none of the usual functions
+are built for an object of class "summary.averaging". Turns out, I just had to create
+the summary and then specify the full coefficient matrix (coefmat.full).
+
+Anyways, once I did that, it was pretty simple to create the figure!
+
+Current question: should I sort the predictor variables (y-axis) based on alphabetical order,
+or based on absolute value of the estimated coefficient?
+
+I also made some small changes to my website - added a link to Aligned Reads, etc.
+
+After I figure that out, time to move on to my next tasks:
+- Create figures 3 and 4 for modeling paper
+- Continue reading thru Linux book
+
+
+

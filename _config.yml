@@ -17,8 +17,8 @@ navbar-links:
   About: "aboutme"
   Lab Notebook: "notebook"
   Aligned Reads: "https://aspencoyle.substack.com/"
-  Bitter Crab blog: "https://bittercrab.wordpress.com/"
   Resources:
+    - Bitter Crab blog: "https://bittercrab.wordpress.com/"
     - DecaPOD: "https://www.listennotes.com/podcasts/decapod-bittercrabscience-grace-crandall-uf8bqMArwV1/"
     - Roberts Lab handbook: "https://robertslab.github.io/resources/"
 
