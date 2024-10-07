@@ -56,9 +56,12 @@ Filled in for Celeste's 250 lab today, so most of the day was that! Beyond that,
 
 - Sorted out a bunch of TREQ issues re: reimbursement
 - Got in touch with TREQ to updat emy name in their system
-- 
 
+**Sunday, October 6th**
 
-Goals for tomorrow:
-- Continue rewriting modeling paper with Chelsea's edits
+Came in after a lil Quaker meeting to get some stuff done (also got an oyster knife from the meeting,
+neat!). Good news: I ended up going through all of the paper edits from Chelsea!!! Yay, yippee, go Aspen!!!
+
+Next up on the list: 
+- Create all figures for modeling paper (already did Figure 1!)
 - Continue reading thru Linux book
