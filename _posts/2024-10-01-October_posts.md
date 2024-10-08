@@ -62,10 +62,6 @@ Filled in for Celeste's 250 lab today, so most of the day was that! Beyond that,
 Came in after a lil Quaker meeting to get some stuff done (also got an oyster knife from the meeting,
 neat!). Good news: I ended up going through all of the paper edits from Chelsea!!! Yay, yippee, go Aspen!!!
 
-Next up on the list: 
-- Create all figures for modeling paper (already did Figure 1!)
-- Continue reading thru Linux book
-
 **Monday, October 7th**
 
 First lab meeting of the new quarter! Fun times and good vibes were had by all
@@ -81,11 +77,20 @@ Anyways, once I did that, it was pretty simple to create the figure!
 Current question: should I sort the predictor variables (y-axis) based on alphabetical order,
 or based on absolute value of the estimated coefficient?
 
+Update: figured that out, I'll base them on absolute value! I also decided to eliminate the intercept variable.
+
+I continued on, and created plots for the male-specific and female-specific models! However, they'd look
+cleaner if they were incorporated together as a single figure (with a shared axis?)
+
+Also, cannot BELIEVE I never thought of working in the line "but why male models?" somewhere into my paper
+when discussing the existence of my male-specific models. Ah well, even the most beautiful puns fade into dust
+
 I also made some small changes to my website - added a link to Aligned Reads, etc.
 
-After I figure that out, time to move on to my next tasks:
-- Create figures 3 and 4 for modeling paper
-- Continue reading thru Linux book
-
-
+Up next:
+- Continue reading Linux book
+- Fit coefficient graphs into single figure
+- Come up with additional graphs
+- Schedule meeting with Steven
+- Schedule committee meeting
 
