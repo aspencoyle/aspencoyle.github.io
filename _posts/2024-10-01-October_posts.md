@@ -87,10 +87,27 @@ when discussing the existence of my male-specific models. Ah well, even the most
 
 I also made some small changes to my website - added a link to Aligned Reads, etc.
 
+**Tuesday, October 8th**
+
+No work today - got a small medical procedure done on my toe. Between that and getting my 
+COVID and flu shots Monday afternoon, I was out of commission all day. Still, a restful day in bed!
+Movie recommendation of the day: "Los Tallos Amargos" (The Bitter Stems). Mid-50s Argentinean noir - 
+delightfully tense and full of twists. Great way to spend the day (thanks, Scarecrow Video!)
+
+**Wednesday, October 9th**
+
+Spent the morning at the UW career fair, and the afternoon working on my graphs. Made some important changes, including the following:
+- Got some feedback (thanks, Ariana!) and decided on two figures. Figure 2 would be just the general model coefficients, while Figure 3 would be the sex-specific models
+- Created both those figures
+- Edited figures so that significant coefficients were plotted in black, and non-significant coefficients in grey. 
+- Played around some with sizing and captions
+- Went through a piece Niamh is writing about my modeling research and made sure everything was shipshape
+- Did some office hours and things of that nature
+
 Up next:
 - Continue reading Linux book
-- Fit coefficient graphs into single figure
-- Come up with additional graphs
-- Schedule meeting with Steven
+- Schedule meeting with Steven for paper chatting
 - Schedule committee meeting
+
+
 
