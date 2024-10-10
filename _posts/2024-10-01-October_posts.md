@@ -104,9 +104,13 @@ Spent the morning at the UW career fair, and the afternoon working on my graphs.
 - Went through a piece Niamh is writing about my modeling research and made sure everything was shipshape
 - Did some office hours and things of that nature
 
+**Thursday, October 10th**
+
+It's Thursday, so it's teaching lab day! Couldn't get much lab work done, of course. But I did get
+through a few dozen pages of the Linux book (taking very detailed notes!) and scheduled a meeting with Steven for tomorrow!
+
 Up next:
 - Continue reading Linux book
-- Schedule meeting with Steven for paper chatting
 - Schedule committee meeting
 
 
