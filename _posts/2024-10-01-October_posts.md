@@ -109,6 +109,30 @@ Spent the morning at the UW career fair, and the afternoon working on my graphs.
 It's Thursday, so it's teaching lab day! Couldn't get much lab work done, of course. But I did get
 through a few dozen pages of the Linux book (taking very detailed notes!) and scheduled a meeting with Steven for tomorrow!
 
+Once I'd eaten my academic veggies, I also got started on another post for Aligned Reads on thinking like a scientist (and why it's not always great). 
+Fun to write, really love being able to articulate these thoughts and turn them from something abstract to something more concrete.
+
+**Friday, October 11th**
+
+Spent most of the day in a First Aid class! Learned a bunch, and got my First Aid/CPR cert (required for TAing). 
+Aside from that, had a meeting with Steven, and sent an email out establishing my plans to him and Chelsea. 
+
+A brief summary
+
+- Complete the modeling paper (get edits, do supplemental tables, submit)
+
+- Complete the gene expression paper (correct edits, submit)
+
+- Get both papers formatted for thesis
+
+- Schedule presentation
+
+- Present and graduate!
+
+**Saturday, October 12th**
+
+Finished my Aligned Reads post! Was v fun to write, a great time. I also started on some grading!
+
 Up next:
 - Continue reading Linux book
 - Schedule committee meeting
