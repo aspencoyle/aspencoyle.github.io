@@ -133,6 +133,10 @@ A brief summary
 
 Finished my Aligned Reads post! Was v fun to write, a great time. I also started on some grading!
 
+**Sunday, October 13th**
+
+Worked on grading for the first FISH 250 lab! It's definitely a slow one, but getting through it bit by bit
+
 Up next:
 - Continue reading Linux book
 - Schedule committee meeting
