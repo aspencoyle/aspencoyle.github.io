@@ -135,7 +135,11 @@ Finished my Aligned Reads post! Was v fun to write, a great time. I also started
 
 **Sunday, October 13th**
 
-Worked on grading for the first FISH 250 lab! It's definitely a slow one, but getting through it bit by bit
+Well, it took a full day of work on a weekend, but I got done with all the grading for FISH 250 Lab 2 (which was only submtited a few days ago)!!!
+
+I'm now in a much better place for the conference - already worked ahead some, so I can focus on getting things done for the rest of my academic life, packing, etc. Yay, yippee!
+
+I also read over the thing from Niamh again and sent in some important edits! A productive day, even if it did end up taking one of the last precious sunny weekend days.
 
 Up next:
 - Continue reading Linux book
