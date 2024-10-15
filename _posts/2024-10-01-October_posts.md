@@ -151,6 +151,14 @@ Most of today was meetings. DEI interview (not eligible for the position sadly) 
 
 Didn't have a ton of time to do other tasks, but in my free time, I addressed a few of the edits on the sequencing paper and applied for a job (IOOS).
 
+**Tuesday, October 15th**
+
+Got a few more edits in on the sequencing paper. Also heard that Chelsea getting to my drafts in mid-November won't be an issue for me graduating this quarter! Yay! Still need to schedule the meeting though.
+
+Aside from that, didn't get much today. 
+
+This post is in honor of Felix, the best cat in the world. May he rest in peace - he will be missed by all <3
+
 Up next:
 - Continue reading Linux book
 - Schedule committee meeting
