@@ -141,9 +141,21 @@ I'm now in a much better place for the conference - already worked ahead some, s
 
 I also read over the thing from Niamh again and sent in some important edits! A productive day, even if it did end up taking one of the last precious sunny weekend days.
 
+**Monday, October 14th**
+
+Got some important notes back! First, from Chelsea - she won't be able to read my drafts until mid-November. Not optimal, but I'll wait to hear from Steven on how that impacts my timeline.
+
+I also heard back from AFS w/r/t my chapter - they loved it, and said it was OK for me to share more widely! Very excited to do so if/when I choose. 
+
+Most of today was meetings. DEI interview (not eligible for the position sadly) -> FISH 250 meeting -> lab meeting -> queer group meeting -> office hours -> SAFS Cafe! 
+
+Didn't have a ton of time to do other tasks, but in my free time, I addressed a few of the edits on the sequencing paper and applied for a job (IOOS).
+
 Up next:
 - Continue reading Linux book
 - Schedule committee meeting
+- Edits on sequencing paper
+- Breakout sesh plans for oSTEM
 
 
 
