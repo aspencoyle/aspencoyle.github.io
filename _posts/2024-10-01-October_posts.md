@@ -168,14 +168,27 @@ I still need to redo the WGCNA module heatmaps for Hematodinium, but that should
 
 Ooh, one more thing - I fixed up Figure 2 of the modeling paper by removing the now-unnecessary title!
 
+**Thursday, October 17th**
+
+Thursday, so teaching day! In my spare time, I redid that WGCNA module heatmap. Looks good now! 
+
+I think I need to redo my GO-MWU figures, especially for the individual modules, and get something that looks a bit fancier. Perhaps remove the dendrogram? Unsure!
+
+I also addressed a few more comments on the expression paper. Slowly getting it there!
+
+Tomorrow, I'm heading to oSTEM (leaving the house at like 6:15am, jeez!), so another busy weekend incoming.
+
+It has now been: *12* days without a day off, and that'll hit at least 16 before I have the chance. Oof!
+
 Up next:
 - Continue reading Linux book
 - Schedule committee meeting
 - Edits on sequencing paper
     - Sam's edits
-    - Remake graphs
+    - Remake GO-MWU figures
     - Reformat tables to be prettier
 - Breakout sesh plans for oSTEM
+- Format everything for thesis
 
 
 
