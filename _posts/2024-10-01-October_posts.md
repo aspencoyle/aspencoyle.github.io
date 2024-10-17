@@ -166,6 +166,8 @@ but more intuitive for paper readers, as they don't need to know the specific wa
 
 I still need to redo the WGCNA module heatmaps for Hematodinium, but that should be fairly straightforward. Just need to keep doing what I did!
 
+Ooh, one more thing - I fixed up Figure 2 of the modeling paper by removing the now-unnecessary title!
+
 Up next:
 - Continue reading Linux book
 - Schedule committee meeting
