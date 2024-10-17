@@ -159,10 +159,20 @@ Aside from that, didn't get much today.
 
 This post is in honor of Felix, the best cat in the world. May he rest in peace - he will be missed by all <3
 
+**Wednesday, October 16th**
+
+Continued editing the sequencing paper! Redid several figures (the WGCNA module heatmaps), and reconsidered my notation for formatting crab IDs. New method is less intuitive for me specifically,
+but more intuitive for paper readers, as they don't need to know the specific ways in which I identified samples. New module heatmaps look pretty great in my opinion!
+
+I still need to redo the WGCNA module heatmaps for Hematodinium, but that should be fairly straightforward. Just need to keep doing what I did!
+
 Up next:
 - Continue reading Linux book
 - Schedule committee meeting
 - Edits on sequencing paper
+    - Sam's edits
+    - Remake graphs
+    - Reformat tables to be prettier
 - Breakout sesh plans for oSTEM
 
 
