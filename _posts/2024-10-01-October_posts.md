@@ -180,14 +180,24 @@ Tomorrow, I'm heading to oSTEM (leaving the house at like 6:15am, jeez!), so ano
 
 It has now been: *12* days without a day off, and that'll hit at least 16 before I have the chance. Oof!
 
+**Wednesday, October 23rd**
+
+Well, I took some time off! I got a bad case of conference crud at oSTEM, and was totally wiped out for Monday and Tuesday. Started feeling better in the evening, 
+and am at about 90% today. 
+
+More in-depth thoughts on oSTEM incoming on Aligned Reads, but there were some elements I liked about it and others I really didn't (hint: I now own a Lockheed Martin "Love Is Love" tote bag)
+
+Today's work: graded a ton of stuff for FISH 250, and also....FINISHED EDITING THE GENE SEQUENCING PAPER!!!! WOOOOOOOO!!!!!
+
+I also started on formatting everything for my thesis! Got the first few pages done (the title page/copyright page), but now I gotta write the abstract! Probably won't be able to get to it tomorrow, but
+maybe Friday!
+
+
+
 Up next:
 - Continue reading Linux book
 - Schedule committee meeting
-- Edits on sequencing paper
-    - Sam's edits
-    - Remake GO-MWU figures
-    - Reformat tables to be prettier
-- Breakout sesh plans for oSTEM
+- Aligned Reads post on oSTEM
 - Format everything for thesis
 
 
