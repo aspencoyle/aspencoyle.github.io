@@ -203,15 +203,26 @@ After lab, I ended up working really late. Good news: I made a ton of progress o
 - Create table of contents for figures
 - Create table of contents for...tables
 - Reformat table of contents to match actual pages after everything is accurate
-- 
 
+**Friday, October 25th**
 
+Made a ton of progress on things!!! Here's what I've accomplished:
+- Literally everything on the thesis to-do list!!!! More detail:
+- Wrote abstract, acknowledgements, dedication
+- Created a table of contents for figures/tables
+- Got table of contents to match actual pages
+- Formatted figure numbering to be consistent
+- Re-read through everything for accuracy, typos, etc.
+
+First draft of the thesis is DONE!!!!!! Holy moly, really moving fast on this thing. Really happy with how fast I'm making progress. 
 
 Up next:
 - Continue reading Linux book
 - Schedule committee meeting
 - Aligned Reads post on oSTEM
-- Format everything for thesis
+- Check through thesis formatting guidelines and ensure there's not anything I'm missing
+- Check if there's any SAFS-specific formatting guidelines. I should be fine, as I'm basing my formatting off Grace's, but just in case!
+
 
 
 
