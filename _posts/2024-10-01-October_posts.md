@@ -187,10 +187,23 @@ and am at about 90% today.
 
 More in-depth thoughts on oSTEM incoming on Aligned Reads, but there were some elements I liked about it and others I really didn't (hint: I now own a Lockheed Martin "Love Is Love" tote bag)
 
-Today's work: graded a ton of stuff for FISH 250, and also....FINISHED EDITING THE GENE SEQUENCING PAPER!!!! WOOOOOOOO!!!!!
+Today's work: graded a ton of stuff for FISH 250, and also....FINISHED EDITING THE GENE SEQUENCING PAPER!!!! WOOOOOOOO!!!!! I also reformatted my whole USAJobs setup for the first time since starting
+grad school - definitely some new stuff there - and applied to a job! 
 
 I also started on formatting everything for my thesis! Got the first few pages done (the title page/copyright page), but now I gotta write the abstract! Probably won't be able to get to it tomorrow, but
 maybe Friday!
+
+**Thursday, October 24th**
+
+Lab all day today! No real time to do anything else - went to the NOAA career thing during the break between my two labs.
+
+After lab, I ended up working really late. Good news: I made a ton of progress on formatting for my thesis!!! I've got all the original stuff in there. Still to do:
+- Write abstract for thesis
+- Reread through everything to make sure it's accurate
+- Create table of contents for figures
+- Create table of contents for...tables
+- Reformat table of contents to match actual pages after everything is accurate
+- 
 
 
 
