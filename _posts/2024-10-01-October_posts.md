@@ -222,6 +222,11 @@ Spent today in a bunch of meetings! FISH 250 meeting -> SAFS DEI working group m
 
 In my spare time, I graded papers for FISH 250 (Lab 4)
 
+**Tuesday, October 29th**
+
+More grading for FISH 250. Also met with Lisa Crosson over at WDFW, former Roberts Lab member and developer of the qPCR assay for _Hematodinium_! Super neat conversation, lovely to 
+catch up and hear how things were back in the day
+
 Up next:
 - Continue reading Linux book
 - Schedule committee meeting
