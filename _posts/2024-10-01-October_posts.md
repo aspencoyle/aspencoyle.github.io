@@ -216,6 +216,12 @@ Made a ton of progress on things!!! Here's what I've accomplished:
 
 First draft of the thesis is DONE!!!!!! Holy moly, really moving fast on this thing. Really happy with how fast I'm making progress. 
 
+**Monday, October 28th**
+
+Spent today in a bunch of meetings! FISH 250 meeting -> SAFS DEI working group meeting -> College of the Environment queer meetup -> office hours
+
+In my spare time, I graded papers for FISH 250 (Lab 4)
+
 Up next:
 - Continue reading Linux book
 - Schedule committee meeting
