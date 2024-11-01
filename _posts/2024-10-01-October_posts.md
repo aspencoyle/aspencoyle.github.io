@@ -227,6 +227,16 @@ In my spare time, I graded papers for FISH 250 (Lab 4)
 More grading for FISH 250. Also met with Lisa Crosson over at WDFW, former Roberts Lab member and developer of the qPCR assay for _Hematodinium_! Super neat conversation, lovely to 
 catch up and hear how things were back in the day
 
+**Wednesday, October 30th**
+
+Fully caught up on FISH 250 grading! 
+
+**Friday, October 31st**
+
+Oooooh, spooky lab entry!!!
+
+Had labs to teach all day today. Afterwards, 
+
 Up next:
 - Continue reading Linux book
 - Schedule committee meeting
