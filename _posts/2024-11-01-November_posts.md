@@ -1,0 +1,21 @@
+---
+layout: post
+title:  November Summary
+date: '2024-11-01'
+categories: summary
+tags: writeup
+---
+
+**Friday, November 1**
+
+Had a very happy Halloween! Today, I finished up my Aligned Reads post on oSTEM and scheduled it for publication tomorrow morning. 
+
+I also created a prelim invite list for my eventual thesis presentation (once that gets scheduled)!
+
+Goals: 
+    - Schedule committee meeting (waiting to hear back from Chelsea)
+    - Continue reading Linux book
+    - Grade FISH 250 Lab 05
+    - Prep for Lab 07
+
+

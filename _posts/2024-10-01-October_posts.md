@@ -231,18 +231,14 @@ catch up and hear how things were back in the day
 
 Fully caught up on FISH 250 grading! 
 
-**Friday, October 31st**
+Also checked through all formatting for my thesis - I'm meeting all requirements! Finally, looked around for SAFS-specific formatting, and found no issues there.
+
+**Thursday, October 31st**
 
 Oooooh, spooky lab entry!!!
 
-Had labs to teach all day today. Afterwards, 
+Had labs to teach all day today. Afterwards, I made a ton of progress on my Aligned Reads oSTEM post - just gotta finish it and all good to go!
 
-Up next:
-- Continue reading Linux book
-- Schedule committee meeting
-- Aligned Reads post on oSTEM
-- Check through thesis formatting guidelines and ensure there's not anything I'm missing
-- Check if there's any SAFS-specific formatting guidelines. I should be fine, as I'm basing my formatting off Grace's, but just in case!
 
 
 
