@@ -18,4 +18,12 @@ Goals:
     - Grade FISH 250 Lab 05
     - Prep for Lab 07
 
+**Monday, November 4**
+
+Meetings all day today. Really enjoyed Grace's presentation during lab meeting, sea stars (and her research) are so neat. Did a bit of grading for Lab 05 too!
+
+Also chatted with Libby about jobs, got some good advice and leads!
+
+
+
 
