@@ -12,18 +12,24 @@ Had a very happy Halloween! Today, I finished up my Aligned Reads post on oSTEM 
 
 I also created a prelim invite list for my eventual thesis presentation (once that gets scheduled)!
 
-Goals: 
-    - Schedule committee meeting (waiting to hear back from Chelsea)
-    - Continue reading Linux book
-    - Grade FISH 250 Lab 05
-    - Prep for Lab 07
-
 **Monday, November 4**
 
 Meetings all day today. Really enjoyed Grace's presentation during lab meeting, sea stars (and her research) are so neat. Did a bit of grading for Lab 05 too!
 
 Also chatted with Libby about jobs, got some good advice and leads!
 
+**Thursday, November 7**
+
+Well, there certainly are weeks when decades happen, huh? Or, to move from the political analogy to the biological, the equilibrium certainly is punctuated from time to time, huh?
+
+Feeling not great. Some bat-wielding transphobes apparently have been driving around Cap Hill attacking trans people. 
+Some friends got attacked on their way home from karaoke. Things suck sometimes.
+
+But even in the deterioration and hate, there's science to be done. Got basically nothing done Tuesday or Wednesday, but taught labs today and did grading. Fully finished Lab 05
 
 
 
+Goals: 
+    - Schedule committee meeting (waiting to hear back from Chelsea)
+    - Continue reading Linux book
+    - Grade FISH 250 Lab 06
