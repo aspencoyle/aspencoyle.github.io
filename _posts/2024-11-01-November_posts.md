@@ -27,6 +27,12 @@ Some friends got attacked on their way home from karaoke. Things suck sometimes.
 
 But even in the deterioration and hate, there's science to be done. Got basically nothing done Tuesday or Wednesday, but taught labs today and did grading. Fully finished Lab 05
 
+**Friday, November 8**
+
+Spent most of the day at SeaGL (a conference up at the HUB for GNU/Linux and FOSS in general!). Fun times, good chats, shoutout /dev/hack
+
+In my free time, graded all of Lab 06. Yep, the one that was turned in yesterday! Go me
+
 
 
 Goals: 
