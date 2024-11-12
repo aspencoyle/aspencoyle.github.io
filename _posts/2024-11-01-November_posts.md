@@ -37,7 +37,13 @@ In my free time, graded all of Lab 06. Yep, the one that was turned in yesterday
 
 Veteran's Day, so a nice day off! Still, had an interview with an ecological consulting firm. Enjoyed chatting with them, fingers crossed they've got a position here in Seattle!
 
+**Tuesday, November 12**
 
+Had Rosalind's class from Maritime High come through and get a tour of the lab. Holy moly, high schoolers are a handful!
+
+Also looked into a few options for scheduling my thesis presentation. Looks like it'll be the second week of December!
+
+Finally, continued reading the Linux book I've been going through. 
 
 Goals: 
     - Schedule committee meeting (waiting to hear back from Chelsea)
