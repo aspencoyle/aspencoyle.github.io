@@ -33,6 +33,10 @@ Spent most of the day at SeaGL (a conference up at the HUB for GNU/Linux and FOS
 
 In my free time, graded all of Lab 06. Yep, the one that was turned in yesterday! Go me
 
+**Monday, November 11**
+
+Veteran's Day, so a nice day off! Still, had an interview with an ecological consulting firm. Enjoyed chatting with them, fingers crossed they've got a position here in Seattle!
+
 
 
 Goals: 
