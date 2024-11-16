@@ -45,7 +45,20 @@ Also looked into a few options for scheduling my thesis presentation. Looks like
 
 Finally, continued reading the Linux book I've been going through. 
 
+**Friday, November 15**
+
+Took a few days off - had a minor medical procedure on Wednesday, and was in a whole lot of pain Thursday! Feeling fine now though, so back at it!
+
+Scheduled my thesis presentation (Tuesday, Dec. 10th at 1pm!!!). Gotta start putting together slides, letting people know, etc!
+
+Put some trans people in touch with SAFS Admin re: moving to Seattle. Glad I'm able to help people out, hate that they need the help.
+
+Also got Chelsea's edits back!! Starting work on them ASAP. I already edited Figure 1 of the methods paper and addressed almost all the text edits, but still want 
+to get some work done on it over the weekend. We'll see!
+
 Goals: 
-    - Schedule committee meeting (waiting to hear back from Chelsea)
+    - Invite people to thesis presentation!!!
+    - Make thesis presentation!!!
+    - Address Chelsea's edits!
     - Continue reading Linux book
     - Grade FISH 250 Lab 06
