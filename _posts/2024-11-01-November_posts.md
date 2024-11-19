@@ -56,9 +56,17 @@ Put some trans people in touch with SAFS Admin re: moving to Seattle. Glad I'm a
 Also got Chelsea's edits back!! Starting work on them ASAP. I already edited Figure 1 of the methods paper and addressed almost all the text edits, but still want 
 to get some work done on it over the weekend. We'll see!
 
+**Monday, November 18**
+
+It's Monday, so it's meeting day! FISH 250 meeting, lab meeting, office hours, doctor's appointment. But in my spare time, I did a bunch of grading (half of the stuff for Testing Taxis lab!)
+
+I also got some important info on the thesis presentation - I should prep for about 50 minutes of presenting, and then however long it takes for Q+A. I also started sending out invites!
+
+Tomorrow is three weeks until my presentation!!!
+
 Goals: 
     - Invite people to thesis presentation!!!
     - Make thesis presentation!!!
     - Address Chelsea's edits!
     - Continue reading Linux book
-    - Grade FISH 250 Lab 06
+    - Grade FISH 250 Lab 07
