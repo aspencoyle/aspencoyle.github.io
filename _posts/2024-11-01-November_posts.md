@@ -64,9 +64,16 @@ I also got some important info on the thesis presentation - I should prep for ab
 
 Tomorrow is three weeks until my presentation!!!
 
+**Tuesday, November 19**
+
+Three weeks until my presentation!!!!!
+
+I decided to knock out grading for 250 - work ahead so I can really put my nose to the grindstone in the last few weeks without other distractions. Plus I'm filling in for Celeste on Friday,
+so working ahead is nice. Anyways, I graded the second half of the Testing Taxis labs and got about half of Lab 8 completed as well!
+
 Goals: 
     - Invite people to thesis presentation!!!
     - Make thesis presentation!!!
     - Address Chelsea's edits!
     - Continue reading Linux book
-    - Grade FISH 250 Lab 07
+    - Grade FISH 250 Lab 08
