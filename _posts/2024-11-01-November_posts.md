@@ -71,6 +71,19 @@ Three weeks until my presentation!!!!!
 I decided to knock out grading for 250 - work ahead so I can really put my nose to the grindstone in the last few weeks without other distractions. Plus I'm filling in for Celeste on Friday,
 so working ahead is nice. Anyways, I graded the second half of the Testing Taxis labs and got about half of Lab 8 completed as well!
 
+**Wednesday, November 20**
+
+Sat in on the interagency Alaska crab meeting (thanks, Madi!), which went all day today! Saw a ton of cool work done - particularly loved hearing about Leah Zacher's work on Bristol Bay RKC 
+tagging efforts (really made me appreciate the utility of PSATs on crabs, something I've always been a bit skeptical of), along with Erin Fedewa's work on snow crab energetics 
+- the hepatopancreas wet weight:dry weight ratio being predictive of total fatty acid ratio and thus of overall crab health was FASCINATING, and it really feels like there's 
+some neat projects to be done there. Also loved seeing Andy present the good ol' PSAT vs. acoustic work from my Kodiak days!!
+
+Additionally, finished grading all of the Polar Seas lab and addressed almost all of Chelsea's edits! I've just got one more to do - create graphs.
+This'll be a tricky one, as there's some questions on how to structure those graphs in a way that makes sense. Initial thoughts: choose the four most pronounced effects for each model,
+put em in a panel.
+
+I already made one for the percent of crabs with BCS at each shell condition! Good start, but more to do! Definitely need CW and sex, 
+
 Goals: 
     - Invite people to thesis presentation!!!
     - Make thesis presentation!!!
