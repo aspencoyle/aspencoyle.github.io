@@ -82,7 +82,11 @@ Additionally, finished grading all of the Polar Seas lab and addressed almost al
 This'll be a tricky one, as there's some questions on how to structure those graphs in a way that makes sense. Initial thoughts: choose the four most pronounced effects for each model,
 put em in a panel.
 
-I already made one for the percent of crabs with BCS at each shell condition! Good start, but more to do! Definitely need CW and sex, 
+I already made one for the percent of crabs with BCS at each shell condition! Good start, but more to do! Definitely need CW and sex, probably some female- and male-specific ones too
+
+**Thursday, November 21**
+
+No progress today - unsurprisingly, it was a double lab day! Started setting up lab at 8am, didn't get done till 5pm. Busy busy day. 
 
 Goals: 
     - Invite people to thesis presentation!!!
