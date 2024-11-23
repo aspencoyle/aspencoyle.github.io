@@ -88,9 +88,20 @@ I already made one for the percent of crabs with BCS at each shell condition! Go
 
 No progress today - unsurprisingly, it was a double lab day! Started setting up lab at 8am, didn't get done till 5pm. Busy busy day. 
 
+**Friday, November 22**
+
+Filled in for Celeste's lab this afternoon, but got a bunch of stuff done! Almost done addressing Chelsea's edits, just a bit more to go. 
+
+Made some extremely pretty visualizations between the raw data and all variables for the four variables with the greatest coefficients in the general model (SC, CW sex, Black Mat)
+along with all sex-specific variables in their models (egg dev, maturity, egg pct). 
+
+Should likely add other significant variables to general model graph (depth, temp), and need to write a caption for the new Figure 5 (sex-specific variables graphed vs raw data)
+
+
 Goals: 
+    - Caption for new Figure 5
+    - Add depth and temp to general model graph
+    - Make thesis presentation
+    - Update thesis with edits
     - Invite people to thesis presentation!!!
-    - Make thesis presentation!!!
-    - Address Chelsea's edits!
     - Continue reading Linux book
-    - Grade FISH 250 Lab 08
