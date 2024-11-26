@@ -97,10 +97,17 @@ along with all sex-specific variables in their models (egg dev, maturity, egg pc
 
 Should likely add other significant variables to general model graph (depth, temp), and need to write a caption for the new Figure 5 (sex-specific variables graphed vs raw data)
 
+**Monday, November 25**
+
+Meeting day again! Got a bunch of stuff done too. Worked on analysis of why I'm seeing highest rates of BCS at mid clutch fullness (there's way fewer infected crabs w/ low CF), which seems to
+indicate it impacts fecundity
+
+Also graded a bunch of stuff for FISH 250!!
+
 
 Goals: 
-    - Caption for new Figure 5
-    - Add depth and temp to general model graph
+    - Write up analysis of why we're seeing highest rates at mid clutch fullness
+    - Scale CW
     - Make thesis presentation
     - Update thesis with edits
     - Invite people to thesis presentation!!!
