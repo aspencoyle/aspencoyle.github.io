@@ -104,11 +104,36 @@ indicate it impacts fecundity
 
 Also graded a bunch of stuff for FISH 250!!
 
+**Tuesday, November 26**
+
+- Fixed up some of the captions (egg percent -> clutch fullness)
+- Wrote up analysis of why we're seeing highest rates at mid clutch fullness
+
+
+**Friday, November 29**
+
+Took Wednesday and Thursday off for Thanksgiving, but we're in full thesis finishing mode now!!
+
+- Finished up caption of Figure 5
+- Redid figure numbering in scripts
+- Wrote up analysis of why we're seeing highest rates at mid clutch fullness
+- Finished inviting people to presentation!
+
+**Saturday, November 30**
+
+Coming in all day today to work on presentation! It's going well so far - ahead of schedule, which is nice!
+
+**Sunday, November 31**
+
+More presentation work!! Think I've finished the presentation, just in time for my practice presentation tomorrow!!
+
+Also graded almost all of Lab 9 (missing one that I gave an extension on). I'll get to that Monday or Tuesday, and then I'm almost done with all TA work!!
+
+
+
+
 
 Goals: 
-    - Write up analysis of why we're seeing highest rates at mid clutch fullness
-    - Scale CW
-    - Make thesis presentation
-    - Update thesis with edits
-    - Invite people to thesis presentation!!!
+    - Finish grading Lab 09
+    - Edit thesis presentation
     - Continue reading Linux book
