@@ -123,13 +123,6 @@ Took Wednesday and Thursday off for Thanksgiving, but we're in full thesis finis
 
 Coming in all day today to work on presentation! It's going well so far - ahead of schedule, which is nice!
 
-**Sunday, November 31**
-
-More presentation work!! Think I've finished the presentation, just in time for my practice presentation tomorrow!!
-
-Also graded almost all of Lab 9 (missing one that I gave an extension on). I'll get to that Monday or Tuesday, and then I'm almost done with all TA work!!
-
-
 
 
 
