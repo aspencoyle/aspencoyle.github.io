@@ -28,7 +28,22 @@ Beyond that, I've just got some TA work to finish up. Nothing too tricky, but is
 - Grade Lab 10 (should be done in class on Thursday)
 - Go through old labs to make sure all late assignments got graded
 
+**Tuesday, December 3rd**
+
+Did good in my practice presentation! Overall thoughts: the material is good, but now I need to make it into a good presentation. Trim down stuff, turn things into graphics, 
+simplify methods, etc. Spent a lot of time doing that, including a complete reversal of the ordering of my presentation (starting with Chapter 2 now, then flowing into Chapter 1).
+
+Also finished grading Lab 9, so that's one thing off my to-do list!
+
+**Wednesday, December 4th**
+
+More presentation work! Completed all my edits on the presentation. Trimmed down text as much as possible, made some cute graphics, thought deeply about the flow of everything, etc.
+
+I also made some very solid graphics that answer potential questions and clear up confusion (how can immature crab _and_ larger crab be more prone simultaneously?)
+
+Tomorrow: won't be able to accomplish a ton, since I've got two labs to teach. But I'll record a practice presentation, send it to Steven, get some feedback that way!
+
+
 Goals: 
-    - Finish grading Lab 09
     - Edit thesis presentation
     - Continue reading Linux book
