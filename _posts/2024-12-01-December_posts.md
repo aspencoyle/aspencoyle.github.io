@@ -43,6 +43,16 @@ I also made some very solid graphics that answer potential questions and clear u
 
 Tomorrow: won't be able to accomplish a ton, since I've got two labs to teach. But I'll record a practice presentation, send it to Steven, get some feedback that way!
 
+**Thursday, December 5th**
+
+Taught my last lab here at UW!! It was a good one - had a student give me some chocolate as a thanks, which was very sweet. Also finished all my grading for FISH 250, so it's all thesis
+from here on out!! 
+
+Thesis updates: I made some minor edits on the thesis, did a practice presentation, and sent it over to Steven for a review. 
+
+I also fully updated my actual thesis to reflect all of Chelsea and Steven's later edits! It should be totally set now for submission (pending my presentation).
+
+Tomorrow's goal is just to practice the hell out of my presentation!
 
 Goals: 
     - Edit thesis presentation
