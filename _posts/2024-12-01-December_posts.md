@@ -54,6 +54,9 @@ I also fully updated my actual thesis to reflect all of Chelsea and Steven's lat
 
 Tomorrow's goal is just to practice the hell out of my presentation!
 
+**Friday, December 6th**
+
+Got a bunch of edits back from Steven on my presentation! Made those edits and practiced my presentation a bunch. Feeling more and more confident with how it's going!
+
 Goals: 
-    - Edit thesis presentation
     - Continue reading Linux book
