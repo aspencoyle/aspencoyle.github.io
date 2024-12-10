@@ -58,5 +58,9 @@ Tomorrow's goal is just to practice the hell out of my presentation!
 
 Got a bunch of edits back from Steven on my presentation! Made those edits and practiced my presentation a bunch. Feeling more and more confident with how it's going!
 
+**Monday, December 9th**
+
+Ahh, final day before my presentation!!!! Practiced it a bunch, and feeling great about it. Let's do this thing!!!!
+
 Goals: 
     - Continue reading Linux book
