@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  November Summary
-date: '2024-11-01'
+title:  December Summary
+date: '2024-12-01'
 categories: summary
 tags: writeup
 ---
 
-**Sunday, December 11**
+**Sunday, December 1st**
 
 More presentation work!! Think I've finished the presentation, just in time for my practice presentation tomorrow!!
 
@@ -62,5 +62,17 @@ Got a bunch of edits back from Steven on my presentation! Made those edits and p
 
 Ahh, final day before my presentation!!!! Practiced it a bunch, and feeling great about it. Let's do this thing!!!!
 
-Goals: 
-    - Continue reading Linux book
+**Tuesday, December 10th**
+
+I PRESENTED MY THESIS!!!!!! It went super well, better than any practice presentations I did previously. Was great to complete it, see everyone there, feel all the love and support
+that I've had throughout my time in grad school. 
+
+Doesn't quite feel like the closing of a door yet - I still need to actually submit my thesis. Working on that still, need to get final approval from Chelsea and Steven. But once I do that,
+I'm DONE!
+
+Taking the day off tomorrow to celebrate and relax for the first time in a long time!!
+
+**Thursday, December 11th**
+
+Started going through the thesis submission process! Still waiting on final approval from Chelsea, but got it from Steven. Did some reformatting of my thesis (page numbering and formatting),
+just minor tweaks and revisions. As soon as I hear from Chelsea, I'm pressing that button and I'll be finally done and officially have a Master of Science in Aquatic and Fishery Sciences!
